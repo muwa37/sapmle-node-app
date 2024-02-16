@@ -1,1 +1,1 @@
-Sample NodeJSApp
+Sample NodeJS App
