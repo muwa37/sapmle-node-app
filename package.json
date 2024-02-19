@@ -4,7 +4,7 @@
   "description": "'trying-node'",
   "main": "index.js",
   "scripts": {
-    "start": "node ./samples/process.js"
+    "start": "nodemon index.js"
   },
   "author": "muwa37",
   "license": "ISC",
